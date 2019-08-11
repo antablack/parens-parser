@@ -1,0 +1,16 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ast.js",
+  "dependencies": {
+    "print": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ast.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
